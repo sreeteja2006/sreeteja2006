@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sreeteja2006
 - 👀 I’m interested in anime
-- 🌱 I’m currently learning 10th class
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on          manythings
 - 📫 How to reach me impossible right now
 
 <!---
